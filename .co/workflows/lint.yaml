@@ -1,0 +1,14 @@
+name: Lint
+on: [push]
+jobs:
+  lint:
+    runs-on:
+      scope: public
+      attributes: [linux]
+      vcpus: 8
+      ramMiB: 16384
+    steps:
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+      - name: Lint
+        run: pnpm lint
