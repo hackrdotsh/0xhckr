@@ -86,7 +86,7 @@ export default async function RootLayout({
               url: "https://hackr.sh",
               sameAs: [
                 "https://github.com/hackrdotsh",
-                "https://x.com/hackrdev",
+                "https://x.com/hackrdotsh",
                 "https://linkedin.com/in/mohammadalahdal",
               ],
               jobTitle: "Software Developer",

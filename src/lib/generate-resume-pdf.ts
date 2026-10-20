@@ -246,7 +246,7 @@ export async function generateResumePDF(data: ResumeData): Promise<jsPDF> {
   const links = [
     { label: "hackr.sh", url: "https://hackr.sh" },
     { label: "github.com/hackrdotsh", url: "https://github.com/hackrdotsh" },
-    { label: "x.com/hackrdev", url: "https://x.com/hackrdev" },
+    { label: "x.com/hackrdotsh", url: "https://x.com/hackrdotsh" },
     {
       label: "linkedin.com/in/mohammadalahdal",
       url: "https://linkedin.com/in/mohammadalahdal",

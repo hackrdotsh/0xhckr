@@ -35,7 +35,7 @@ export const contactLinks = [
     href: "https://github.com/hackrdotsh",
     meta: "@hackrdotsh",
   },
-  { label: "x", href: "https://x.com/hackrdev", meta: "@hackrdev" },
+  { label: "x", href: "https://x.com/hackrdotsh", meta: "@hackrdotsh" },
   {
     label: "linkedin",
     href: "https://linkedin.com/in/mohammadalahdal",
