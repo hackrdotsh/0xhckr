@@ -30,7 +30,11 @@ export const projects: { title: string; href?: string; description: string }[] =
   ];
 
 export const contactLinks = [
-  { label: "github", href: "https://github.com/hackr", meta: "@hackr" },
+  {
+    label: "github",
+    href: "https://github.com/hackrdotsh",
+    meta: "@hackrdotsh",
+  },
   { label: "x", href: "https://x.com/hackrdev", meta: "@hackrdev" },
   {
     label: "linkedin",

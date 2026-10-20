@@ -96,7 +96,7 @@ export async function generateCoverLetterPDF(
 
   const links = [
     { label: "hackr.sh", url: "https://hackr.sh" },
-    { label: "github.com/hackr", url: "https://github.com/hackr" },
+    { label: "github.com/hackrdotsh", url: "https://github.com/hackrdotsh" },
     { label: "x.com/hackrdev", url: "https://x.com/hackrdev" },
     {
       label: "linkedin.com/in/mohammadalahdal",
