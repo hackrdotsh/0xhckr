@@ -37,7 +37,7 @@ async function fetchYear(from?: string): Promise<ContributionDay[]> {
   const url = from
     ? `https://github.com/users/${GITHUB_USER}/contributions?from=${from}`
     : `https://github.com/users/${GITHUB_USER}/contributions`;
-  const res = await fetch(url, { headers: { "User-Agent": "0xhckr.dev" } });
+  const res = await fetch(url, { headers: { "User-Agent": "hackr.sh" } });
   if (!res.ok) throw new Error(`GitHub responded ${res.status}`);
   return parseContributions(await res.text());
 }

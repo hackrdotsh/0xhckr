@@ -10,7 +10,7 @@ Web Dev &nbsp;&nbsp; • &nbsp;&nbsp; Desktop Apps &nbsp;&nbsp; • &nbsp;&nbsp;
 
 Servers &nbsp;&nbsp; • &nbsp;&nbsp; Security &nbsp;&nbsp; • &nbsp;&nbsp; DevOps
 
-[0xhckr.dev](https://0xhckr.dev) &nbsp;&nbsp; • &nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/mohammadalahdal)
+[hackr.sh](https://hackr.sh) &nbsp;&nbsp; • &nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/mohammadalahdal)
 
 ![hackr-sh's Top Languages](https://git-stats.alahdal.ca/api/top-langs/?username=0xhckr&layout=compact&theme=rose_pine)
 

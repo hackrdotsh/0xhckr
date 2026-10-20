@@ -1,5 +1,5 @@
 {
-  description = "0xhckr.dev website";
+  description = "hackr.sh website";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";

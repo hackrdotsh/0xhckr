@@ -244,14 +244,14 @@ export async function generateResumePDF(data: ResumeData): Promise<jsPDF> {
   mainY += 5;
 
   const links = [
-    { label: "0xhckr.dev", url: "https://0xhckr.dev" },
+    { label: "hackr.sh", url: "https://hackr.sh" },
     { label: "github.com/0xhckr", url: "https://github.com/0xhckr" },
     { label: "x.com/0xhckrdev", url: "https://x.com/0xhckrdev" },
     {
       label: "linkedin.com/in/mohammadalahdal",
       url: "https://linkedin.com/in/mohammadalahdal",
     },
-    { label: "hello@0xhckr.dev", url: "mailto:hello@0xhckr.dev" },
+    { label: "hello@hackr.sh", url: "mailto:hello@hackr.sh" },
   ];
 
   font("bold");

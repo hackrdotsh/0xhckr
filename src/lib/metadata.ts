@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 
-const siteUrl = "https://0xhckr.dev";
+const siteUrl = "https://hackr.sh";
 const siteName = "0xhckr";
 
 function ogImageUrl(title: string, description: string, path?: string): string {

@@ -37,5 +37,5 @@ export const contactLinks = [
     href: "https://linkedin.com/in/mohammadalahdal",
     meta: "mohammadalahdal",
   },
-  { label: "email", href: "mailto:hello@0xhckr.dev", meta: "hello@0xhckr.dev" },
+  { label: "email", href: "mailto:hello@hackr.sh", meta: "hello@hackr.sh" },
 ];

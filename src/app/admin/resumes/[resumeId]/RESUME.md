@@ -56,5 +56,5 @@ The output must be a valid JSON object matching the `ResumeData` structure exact
 The Master Resume is able to be pulled using a REST API endpoint.
 
 ```http
-GET https://0xhckr.dev/api/resumes/default
+GET https://hackr.sh/api/resumes/default
 ```

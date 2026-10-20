@@ -1,4 +1,4 @@
-# 0xhckr.dev
+# hackr.sh
 
 Personal portfolio built with Next.js, React, Tailwind CSS, and GSAP.
 

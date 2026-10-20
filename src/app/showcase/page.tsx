@@ -29,9 +29,9 @@ const projects: { title: string; description: string; link?: string }[] = [
     link: "https://thenix.guide",
   },
   {
-    title: "0xhckr.dev",
+    title: "hackr.sh",
     description: "my personal portfolio site.",
-    link: "https://0xhckr.dev",
+    link: "https://hackr.sh",
   },
   {
     title: "itsasecret.dev",

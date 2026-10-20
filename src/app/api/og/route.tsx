@@ -142,7 +142,7 @@ export async function GET(request: NextRequest) {
           }}
         >
           <span style={{ color: ACCENT }}>{"//"}</span>
-          <span>0xhckr.dev</span>
+          <span>hackr.sh</span>
         </div>
         <div
           style={{

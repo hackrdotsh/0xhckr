@@ -8,7 +8,7 @@ import "./globals.css";
 import { AmbientBackground } from "~/components/ambient-background";
 import { getToken } from "~/lib/auth-server";
 
-const siteUrl = "https://0xhckr.dev";
+const siteUrl = "https://hackr.sh";
 
 export const metadata: Metadata = {
   title: "0xhckr | Mohammad Al-Ahdal | Software Developer",
@@ -83,7 +83,7 @@ export default async function RootLayout({
               "@type": "Person",
               name: "Mohammad Al-Ahdal",
               alternateName: "0xhckr",
-              url: "https://0xhckr.dev",
+              url: "https://hackr.sh",
               sameAs: [
                 "https://github.com/0xhckr",
                 "https://x.com/0xhckrdev",
