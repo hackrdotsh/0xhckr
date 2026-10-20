@@ -21,7 +21,7 @@ export const authComponent = createClient<DataModel, typeof authSchema>(
 
 export const createAuthOptions = (ctx: GenericCtx<DataModel>) =>
   ({
-    appName: "0xhckr",
+    appName: "hackr",
     baseURL: process.env.SITE_URL,
     database: authComponent.adapter(ctx),
     // Guests sign in with GitHub only (guestbook). Passkey auth above remains
@@ -34,7 +34,7 @@ export const createAuthOptions = (ctx: GenericCtx<DataModel>) =>
     },
     plugins: [
       passkey({
-        rpName: "0xhckr",
+        rpName: "hackr",
         registration: {
           // Allow passkey registration without a session so the very first
           // passkey can be created. Bootstrapping self-locks: it only works

@@ -35,7 +35,7 @@ function SectionHeading({ index, title }: { index: string; title: string }) {
 const NoscriptContent = () => (
   <noscript>
     <article className="mx-auto max-w-2xl px-4 py-16 text-sm leading-relaxed text-gray-300 sm:px-8 sm:text-base">
-      <h1>Hey, I'm 0xhckr.</h1>
+      <h1>Hey, I'm hackr.</h1>
       <p>
         also known as Mohammad Al-Ahdal. I build most things with TypeScript,
         React, and Tailwind. Currently on my journey to learn Rust.
@@ -182,7 +182,7 @@ export function Home() {
               </span>
               <span className="reveal-line">
                 <span className="hero-name inline-block">
-                  0xhckr<span className="text-accent">.</span>
+                  hackr<span className="text-accent">.</span>
                 </span>
               </span>
             </h1>

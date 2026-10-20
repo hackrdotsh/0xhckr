@@ -11,7 +11,7 @@ import { getToken } from "~/lib/auth-server";
 const siteUrl = "https://hackr.sh";
 
 export const metadata: Metadata = {
-  title: "0xhckr | Mohammad Al-Ahdal | Software Developer",
+  title: "hackr | Mohammad Al-Ahdal | Software Developer",
   description:
     "Software developer, homelab enthusiast, and a lover of Nix. Making things by smashing my hands on my keyboard.",
   metadataBase: new URL(siteUrl),
@@ -19,13 +19,13 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: siteUrl,
-    title: "0xhckr | Mohammad Al-Ahdal | Software Developer",
+    title: "hackr | Mohammad Al-Ahdal | Software Developer",
     description:
       "Software developer, homelab enthusiast, and a lover of Nix. Making things by smashing my hands on my keyboard.",
-    siteName: "0xhckr",
+    siteName: "hackr",
     images: [
       {
-        url: `${siteUrl}/api/og?title=0xhckr&description=Mohammad%20Al-Ahdal%20%7C%20Software%20Developer`,
+        url: `${siteUrl}/api/og?title=hackr&description=Mohammad%20Al-Ahdal%20%7C%20Software%20Developer`,
         width: 1200,
         height: 630,
       },
@@ -33,11 +33,11 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "0xhckr | Mohammad Al-Ahdal | Software Developer",
+    title: "hackr | Mohammad Al-Ahdal | Software Developer",
     description:
       "Software developer, homelab enthusiast, and a lover of Nix. Making things by smashing my hands on my keyboard.",
     images: [
-      `${siteUrl}/api/og?title=0xhckr&description=Mohammad%20Al-Ahdal%20%7C%20Software%20Developer`,
+      `${siteUrl}/api/og?title=hackr&description=Mohammad%20Al-Ahdal%20%7C%20Software%20Developer`,
     ],
   },
   robots: {
@@ -82,11 +82,11 @@ export default async function RootLayout({
               "@context": "https://schema.org",
               "@type": "Person",
               name: "Mohammad Al-Ahdal",
-              alternateName: "0xhckr",
+              alternateName: "hackr",
               url: "https://hackr.sh",
               sameAs: [
-                "https://github.com/0xhckr",
-                "https://x.com/0xhckrdev",
+                "https://github.com/hackr",
+                "https://x.com/hackrdev",
                 "https://linkedin.com/in/mohammadalahdal",
               ],
               jobTitle: "Software Developer",

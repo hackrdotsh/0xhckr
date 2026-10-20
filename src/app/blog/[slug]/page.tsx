@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: PageProps) {
       path: `/blog/${meta.slug}`,
     });
   } catch {
-    return { title: "Not Found | 0xhckr" };
+    return { title: "Not Found | hackr" };
   }
 }
 

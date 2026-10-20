@@ -30,8 +30,8 @@ export const projects: { title: string; href?: string; description: string }[] =
   ];
 
 export const contactLinks = [
-  { label: "github", href: "https://github.com/0xhckr", meta: "@0xhckr" },
-  { label: "x", href: "https://x.com/0xhckrdev", meta: "@0xhckrdev" },
+  { label: "github", href: "https://github.com/hackr", meta: "@hackr" },
+  { label: "x", href: "https://x.com/hackrdev", meta: "@hackrdev" },
   {
     label: "linkedin",
     href: "https://linkedin.com/in/mohammadalahdal",

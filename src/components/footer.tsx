@@ -53,7 +53,7 @@ export function Footer() {
       <div className="mx-auto grid max-w-5xl gap-12 px-5 py-16 sm:grid-cols-[1.4fr_1fr_1fr] sm:px-8 sm:py-20">
         <div className="fade-up">
           <p className="font-sans text-2xl font-semibold tracking-tight">
-            0xhckr<span className="text-accent">.</span>
+            hackr<span className="text-accent">.</span>
           </p>
         </div>
         <div className="fade-up">

@@ -88,7 +88,7 @@ export const PageLoader = ({ children }: { children: React.ReactNode }) => {
       >
         <div ref={markRef} className="flex flex-col items-center gap-4">
           <span className="loader-glitch font-mono text-sm tracking-[0.2em] text-foreground/90 uppercase select-none">
-            0xhckr
+            hackr
           </span>
           <div className="h-px w-40 overflow-hidden bg-foreground/10">
             <div

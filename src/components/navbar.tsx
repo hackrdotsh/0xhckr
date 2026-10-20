@@ -155,7 +155,7 @@ export function Navbar() {
             className="group flex items-baseline gap-1.5 font-mono text-sm tracking-[0.15em] uppercase select-none"
           >
             <span className="text-foreground transition-colors group-hover:text-accent">
-              <ScrambleText text="0xhckr" trigger="ready" delay={0.4} />
+              <ScrambleText text="hackr" trigger="ready" delay={0.4} />
             </span>
             <span className="inline-block size-1.5 translate-y-[-1px] bg-accent" />
           </Link>

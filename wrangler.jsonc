@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "0xhckrdev",
+  "name": "hackrdev",
   "main": "./worker/index.ts",
   "account_id": "3384f0c121186684d1ff5ba91cb5b23a",
   "compatibility_date": "2026-04-13",

@@ -63,7 +63,7 @@ let fontsPromise: ReturnType<typeof loadFonts> | null = null;
 
 export async function GET(request: NextRequest) {
   const { searchParams } = request.nextUrl;
-  const title = searchParams.get("title") ?? "0xhckr";
+  const title = searchParams.get("title") ?? "hackr";
   const description =
     searchParams.get("description") ?? "Mohammad Al-Ahdal | Software Developer";
   const path = searchParams.get("path");
@@ -216,7 +216,7 @@ export async function GET(request: NextRequest) {
                 color: FG,
               }}
             >
-              0xhckr
+              hackr
               <div
                 style={{
                   width: 10,

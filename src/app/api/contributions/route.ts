@@ -4,7 +4,7 @@ export interface ContributionDay {
   level: 0 | 1 | 2 | 3 | 4;
 }
 
-const GITHUB_USER = "0xhckr";
+const GITHUB_USER = "hackr";
 const YEARS_BACK = 3;
 
 let cached: { data: ContributionDay[]; at: number } | null = null;
