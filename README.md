@@ -12,9 +12,9 @@ Servers &nbsp;&nbsp; • &nbsp;&nbsp; Security &nbsp;&nbsp; • &nbsp;&nbsp; Dev
 
 [hackr.sh](https://hackr.sh) &nbsp;&nbsp; • &nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/mohammadalahdal)
 
-![hackr-sh's Top Languages](https://git-stats.alahdal.ca/api/top-langs/?username=hackr&layout=compact&theme=rose_pine)
+![hackr-sh's Top Languages](https://git-stats.alahdal.ca/api/top-langs/?username=0xhckr&layout=compact&theme=rose_pine)
 
-![hackr-sh's GitHub stats](https://git-stats.alahdal.ca/api?username=hackr&theme=rose_pine&rank_icon=percentile)
+![hackr-sh's GitHub stats](https://git-stats.alahdal.ca/api?username=0xhckr&theme=rose_pine&rank_icon=percentile)
 
 ## Currently Working On
 
